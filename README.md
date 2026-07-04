@@ -24,6 +24,13 @@ This repository is your **week-by-week course companion** for the LearnPlaywrigh
 
 > Content gets added **as we progress through the batch** — so check back after every class.
 
+### Quick Start
+
+- Clone this repository and browse the chapter folders in order.
+- Run JavaScript examples with Node.js, for example: `node chapter_01_Basics/01_Basics.js`
+- For Playwright practice, open the Playwright folders such as `chapter_19_Playwright_Basics` or `chapter_32_Playwright_Fundamentals` and install dependencies with `npm install`.
+- This repo is also available on GitHub at https://github.com/Aviparam/LearnTSJSPlaywright.
+
 ### What you'll learn
 
 - **JavaScript Fundamentals** — variables, control flow, arrays, functions, OOP, async
